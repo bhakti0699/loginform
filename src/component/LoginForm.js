@@ -18,7 +18,7 @@ export default function LoginForm()
                             <FormLabel>Password</FormLabel>
                             <Input type="password"></Input>
                         </FormControl>
-                        <Button colorScheme="teal" variant="outline" mt={4} width="full">Sign In</Button>
+                        <Button colorScheme="teal" variant="outline" mt={4} width="full" type="submit">Sign In</Button>
                     </form>
                 </Box>
             </Box>
